@@ -1,2 +1,2 @@
 # first
-meu primeiro repositório
+Repositório sobre minhas conquistas
