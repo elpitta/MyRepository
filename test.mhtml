@@ -1,0 +1,1226 @@
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="=boundary.Aspose.Words=--"
+
+This is a multi-part message in MIME format.
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="document.html"
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: document.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8" /><meta http-equiv=3D"Content-Style-Type" content=3D"text/css" />=
+<meta name=3D"description" content=3D"In this module, you will learn about =
+an enterprise-ready data science platform by IBM, called Watson Studio. You=
+'ll learn about some of the features and capabilities of what data scientis=
+ts use in the industry. You=E2=80=99ll also learn about other IBM ..." /><m=
+eta name=3D"generator" content=3D"Aspose.Words for .NET 21.6.0" /><title>Pr=
+actice Quiz - Other IBM Tools | Coursera</title></head><body style=3D"line-=
+height:15.75pt; font-family:Arial; font-size:10.5pt; color:#333333; backgro=
+und:#ffffff"><div><p style=3D"margin:8.25pt 15pt; border-bottom:0.75pt soli=
+d #ffffff; background-color:#ffffff"><a href=3D"https://www.coursera.org/le=
+arn/open-source-tools-for-data-science/quiz/vZaU4/practice-quiz-other-ibm-t=
+ools/view-attempt#main" style=3D"text-decoration:none"><span style=3D"font-=
+size:12pt; font-weight:bold; color:#ffffff; background-color:#00419e">Skip =
+to Main Content</span></a></p><p style=3D"margin-top:0pt; margin-bottom:0pt=
+; line-height:18pt; padding:12pt 18pt; background-color:#ffffff"><a href=3D=
+"https://www.coursera.org/" style=3D"text-decoration:none"><img src=3D"imag=
+e.001.png" width=3D"127" height=3D"32" alt=3D"Coursera" /></a></p><p style=
+=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><span styl=
+e=3D"font-weight:bold; text-transform:uppercase">Pesquisar no curso</span><=
+/p><p style=3D"margin-top:0pt; margin-bottom:0pt; background-color:#ffffff"=
+><input type=3D"text" name=3D"" value=3D"" /></p><p style=3D"margin-top:0pt=
+; margin-bottom:0pt; background-color:#ffffff"><span style=3D"font-weight:b=
+old; letter-spacing:-0.1pt; color:#ffffff; background-color:#0056d2">Pesqui=
+sar</span></p><p style=3D"margin:0pt 0.5pt; line-height:normal; padding:2pt=
+ 7pt; background-color:#ffffff"><a href=3D"https://www.coursera.org/browse"=
+ style=3D"text-decoration:none"><span style=3D"color:#1f1f1f; display:none"=
+>Navegar</span></a><a name=3D"browse-link"></a><a href=3D"https://www.cours=
+era.org/courses" style=3D"text-decoration:none"><span style=3D"color:#1f1f1=
+f; display:none">Os melhores cursos</span></a><a name=3D"top_courses-link">=
+</a><a href=3D"https://www.coursera.org/user/5491a37229e215686343fad748718c=
+48" style=3D"text-decoration:none"><span style=3D"color:#1f1f1f; display:no=
+ne">Perfil</span></a><a name=3D"profile-link"></a><a href=3D"https://www.co=
+ursera.org/my-purchases" style=3D"text-decoration:none"><span style=3D"colo=
+r:#1f1f1f; display:none">Minhas Compras</span></a><a name=3D"my-purchases-l=
+ink"></a><a href=3D"https://www.coursera.org/account-settings" style=3D"tex=
+t-decoration:none"><span style=3D"color:#1f1f1f; display:none">Configura=C3=
+=A7=C3=B5es</span></a><a name=3D"account-settings-link"></a><a href=3D"http=
+s://www.coursera.org/updates" style=3D"text-decoration:none"><span style=3D=
+"color:#1f1f1f; display:none">Atualiza=C3=A7=C3=B5es</span></a><a name=3D"u=
+pdates-link"></a><a href=3D"https://www.coursera.org/accomplishments" style=
+=3D"text-decoration:none"><span style=3D"color:#1f1f1f; display:none">Parti=
+cipa=C3=A7=C3=B5es</span></a><a name=3D"accomplishments-link"></a><a href=
+=3D"https://learner.coursera.help/hc/pt" target=3D"_blank" style=3D"text-de=
+coration:none"><span style=3D"color:#1f1f1f; display:none">Central de Ajuda=
+</span></a><a name=3D"learner-help-center-link"></a><span style=3D"color:#1=
+f1f1f; display:none">Encerrar a sess=C3=A3o</span><img src=3D"image.002.png=
+" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; mar=
+gin-left:19.5pt; margin-bottom:0pt; line-height:normal; background-color:#f=
+fffff"><img src=3D"image.003.png" width=3D"26" height=3D"26" alt=3D"" /></p=
+><p style=3D"margin:0pt 3pt 0pt 24pt; line-height:18pt; background-color:#f=
+fffff"><span>Breno Pitta</span></p><p style=3D"margin-top:0pt; margin-left:=
+24pt; margin-bottom:0pt; line-height:normal; background-color:#ffffff"><img=
+ src=3D"image.004.png" width=3D"18" height=3D"18" alt=3D"" /></p><p style=
+=3D"margin-top:0pt; margin-bottom:0pt; line-height:49pt"><span style=3D"fon=
+t-size:49pt">&#xa0;</span></p><p style=3D"margin:0pt 11.25pt; background-co=
+lor:#ffffff"><img src=3D"image.005.png" width=3D"28" height=3D"28" alt=3D""=
+ /><a href=3D"https://www.coursera.org/" style=3D"text-decoration:none"></a=
+></p><p style=3D"margin:0pt 11.25pt; background-color:#ffffff"><a href=3D"h=
+ttps://www.coursera.org/" style=3D"text-decoration:none"><img src=3D"image.=
+006.png" width=3D"108" height=3D"16" alt=3D"Coursera" /></a></p><p style=3D=
+"margin-top:0pt; margin-bottom:0pt; line-height:18pt; border:0.75pt solid #=
+2a73cc; background-color:#ffffff"><span style=3D"font-family:coursera-iconf=
+ont; font-size:18pt; color:#2a73cc">=EE=A4=A1</span></p><ol type=3D"1" styl=
+e=3D"margin:0pt; padding-left:0pt"><li style=3D"margin-right:12pt; margin-l=
+eft:13.59pt; line-height:30pt; padding-top:6pt; padding-left:0.01pt; paddin=
+g-bottom:12pt; font-size:9pt"><a href=3D"https://www.coursera.org/learn/ope=
+n-source-tools-for-data-science/home/welcome" style=3D"text-decoration:none=
+"><span style=3D"font-size:10.5pt; color:#0056d2">Tools for Data Science</s=
+pan></a></li></ol><p style=3D"margin:0pt 15pt; line-height:30pt"><img src=
+=3D"image.007.png" width=3D"18" height=3D"18" alt=3D"" /></p><ol start=3D"2=
+" type=3D"1" style=3D"margin:0pt; padding-left:0pt"><li style=3D"margin-rig=
+ht:12pt; margin-left:13.59pt; line-height:30pt; padding-left:0.01pt; font-s=
+ize:9pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-da=
+ta-science/home/week/3" style=3D"text-decoration:none"><span style=3D"font-=
+size:10.5pt; color:#0056d2">Semana 3</span></a></li></ol><p style=3D"margin=
+:0pt 15pt; line-height:30pt"><img src=3D"image.007.png" width=3D"18" height=
+=3D"18" alt=3D"" /></p><ol start=3D"3" type=3D"1" style=3D"margin:0pt; padd=
+ing-left:0pt"><li style=3D"margin-right:12pt; margin-left:13.59pt; line-hei=
+ght:30pt; padding-left:0.01pt; font-size:9pt"><span style=3D"font-size:10.5=
+pt; color:#1f1f1f">Practice Quiz - Other IBM Tools</span></li></ol><p style=
+=3D"margin-top:0pt; margin-right:12pt; margin-bottom:0pt; line-height:30pt"=
+><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data-scien=
+ce/lecture/5wRBQ/ibm-watson-openscale" style=3D"text-decoration:none"><img =
+src=3D"image.008.png" width=3D"18" height=3D"18" alt=3D"" /><span style=3D"=
+font-weight:bold; letter-spacing:-0.1pt; color:#0056d2">Anterior</span></a>=
+<a href=3D"https://www.coursera.org/learn/open-source-tools-for-data-scienc=
+e/exam/R7O82/graded-quiz" style=3D"text-decoration:none"><span style=3D"fon=
+t-weight:bold; letter-spacing:-0.1pt; color:#0056d2">Pr=C3=B3ximo</span><im=
+g src=3D"image.007.png" width=3D"18" height=3D"18" alt=3D"" /></a></p><p st=
+yle=3D"margin-top:0pt; margin-bottom:0pt; padding-bottom:24pt"><img src=3D"=
+image.009.png" width=3D"18" height=3D"18" alt=3D"" /><span style=3D"font-si=
+ze:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#0056d2">Navega=C3=
+=A7=C3=A3o de item</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt;=
+ line-height:15pt; padding:4pt 18pt"><span style=3D"font-weight:bold">Watso=
+n Studio</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-heig=
+ht:15pt; padding:4pt 18pt"><span style=3D"font-weight:bold">Other IBM Tools=
+</span></p><p style=3D"margin:0pt 18pt"><a href=3D"https://www.coursera.org=
+/learn/open-source-tools-for-data-science/lecture/r0MWa/other-ibm-tools-for=
+-data-science" style=3D"text-decoration:none"><img src=3D"image.010.png" wi=
+dth=3D"22" height=3D"22" alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; li=
+ne-height:13.5pt"><a href=3D"https://www.coursera.org/learn/open-source-too=
+ls-for-data-science/lecture/r0MWa/other-ibm-tools-for-data-science" style=
+=3D"text-decoration:none"><span style=3D"font-size:9pt; font-weight:bold; c=
+olor:#333333">V=C3=ADdeo: </span><span style=3D"font-size:9pt; color:#33333=
+3">V=C3=ADdeoOther IBM Tools for Data Science</span></a></p><p style=3D"mar=
+gin:1.5pt 18pt 0pt; line-height:13.5pt"><a href=3D"https://www.coursera.org=
+/learn/open-source-tools-for-data-science/lecture/r0MWa/other-ibm-tools-for=
+-data-science" style=3D"text-decoration:none"><span style=3D"font-size:9pt;=
+ color:#6b6b6b">. Duration: 1 minute1 min</span></a></p><p style=3D"margin:=
+0pt 18pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-d=
+ata-science/lecture/gmTPl/ibm-watson-knowledge-catalog" style=3D"text-decor=
+ation:none"><img src=3D"image.010.png" width=3D"22" height=3D"22" alt=3D"" =
+/></a></p><p style=3D"margin:0pt 18pt; line-height:13.5pt"><a href=3D"https=
+://www.coursera.org/learn/open-source-tools-for-data-science/lecture/gmTPl/=
+ibm-watson-knowledge-catalog" style=3D"text-decoration:none"><span style=3D=
+"font-size:9pt; font-weight:bold; color:#333333">V=C3=ADdeo: </span><span s=
+tyle=3D"font-size:9pt; color:#333333">V=C3=ADdeoIBM Watson Knowledge Catalo=
+g</span></a></p><p style=3D"margin:1.5pt 18pt 0pt; line-height:13.5pt"><a h=
+ref=3D"https://www.coursera.org/learn/open-source-tools-for-data-science/le=
+cture/gmTPl/ibm-watson-knowledge-catalog" style=3D"text-decoration:none"><s=
+pan style=3D"font-size:9pt; color:#6b6b6b">. Duration: 6 minutes6 min</span=
+></a></p><p style=3D"margin:0pt 18pt"><a href=3D"https://www.coursera.org/l=
+earn/open-source-tools-for-data-science/lecture/tRvop/data-refinery" style=
+=3D"text-decoration:none"><img src=3D"image.010.png" width=3D"22" height=3D=
+"22" alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-height:13.5pt"><a=
+ href=3D"https://www.coursera.org/learn/open-source-tools-for-data-science/=
+lecture/tRvop/data-refinery" style=3D"text-decoration:none"><span style=3D"=
+font-size:9pt; font-weight:bold; color:#333333">V=C3=ADdeo: </span><span st=
+yle=3D"font-size:9pt; color:#333333">V=C3=ADdeoData Refinery</span></a></p>=
+<p style=3D"margin:1.5pt 18pt 0pt; line-height:13.5pt"><a href=3D"https://w=
+ww.coursera.org/learn/open-source-tools-for-data-science/lecture/tRvop/data=
+-refinery" style=3D"text-decoration:none"><span style=3D"font-size:9pt; col=
+or:#6b6b6b">. Duration: 7 minutes7 min</span></a></p><p style=3D"margin:0pt=
+ 18pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data=
+-science/lecture/yioTd/spss-modeler-flows-in-watson-studio" style=3D"text-d=
+ecoration:none"><img src=3D"image.010.png" width=3D"22" height=3D"22" alt=
+=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-height:13.5pt"><a href=3D=
+"https://www.coursera.org/learn/open-source-tools-for-data-science/lecture/=
+yioTd/spss-modeler-flows-in-watson-studio" style=3D"text-decoration:none"><=
+span style=3D"font-size:9pt; font-weight:bold; color:#333333">V=C3=ADdeo: <=
+/span><span style=3D"font-size:9pt; color:#333333">V=C3=ADdeoSPSS Modeler F=
+lows in Watson Studio</span></a></p><p style=3D"margin:1.5pt 18pt 0pt; line=
+-height:13.5pt"><a href=3D"https://www.coursera.org/learn/open-source-tools=
+-for-data-science/lecture/yioTd/spss-modeler-flows-in-watson-studio" style=
+=3D"text-decoration:none"><span style=3D"font-size:9pt; color:#6b6b6b">. Du=
+ration: 6 minutes6 min</span></a></p><p style=3D"margin:0pt 18pt"><a href=
+=3D"https://www.coursera.org/learn/open-source-tools-for-data-science/ungra=
+dedWidget/LKlZ6/lab-modeler-flows-in-watson-studio" style=3D"text-decoratio=
+n:none"><img src=3D"image.010.png" width=3D"22" height=3D"22" alt=3D"" /></=
+a></p><p style=3D"margin:0pt 18pt; line-height:13.5pt"><a href=3D"https://w=
+ww.coursera.org/learn/open-source-tools-for-data-science/ungradedWidget/LKl=
+Z6/lab-modeler-flows-in-watson-studio" style=3D"text-decoration:none"><span=
+ style=3D"font-size:9pt; color:#333333">Lab: Modeler Flows in Watson Studio=
+</span></a></p><p style=3D"margin:1.5pt 18pt 0pt; line-height:13.5pt"><a hr=
+ef=3D"https://www.coursera.org/learn/open-source-tools-for-data-science/ung=
+radedWidget/LKlZ6/lab-modeler-flows-in-watson-studio" style=3D"text-decorat=
+ion:none"><span style=3D"font-size:9pt; color:#6b6b6b">. Duration: 30 minut=
+es30 min</span></a></p><p style=3D"margin:0pt 18pt"><a href=3D"https://www.=
+coursera.org/learn/open-source-tools-for-data-science/lecture/U6s1l/ibm-sps=
+s-modeler" style=3D"text-decoration:none"><img src=3D"image.010.png" width=
+=3D"22" height=3D"22" alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-=
+height:13.5pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-=
+for-data-science/lecture/U6s1l/ibm-spss-modeler" style=3D"text-decoration:n=
+one"><span style=3D"font-size:9pt; font-weight:bold; color:#333333">V=C3=AD=
+deo: </span><span style=3D"font-size:9pt; color:#333333">V=C3=ADdeoIBM SPSS=
+ Modeler</span></a></p><p style=3D"margin:1.5pt 18pt 0pt; line-height:13.5p=
+t"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data-sci=
+ence/lecture/U6s1l/ibm-spss-modeler" style=3D"text-decoration:none"><span s=
+tyle=3D"font-size:9pt; color:#6b6b6b">. Duration: 7 minutes7 min</span></a>=
+</p><p style=3D"margin:0pt 18pt"><a href=3D"https://www.coursera.org/learn/=
+open-source-tools-for-data-science/lecture/Q2rSv/spss-statistics" style=3D"=
+text-decoration:none"><img src=3D"image.010.png" width=3D"22" height=3D"22"=
+ alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-height:13.5pt"><a hre=
+f=3D"https://www.coursera.org/learn/open-source-tools-for-data-science/lect=
+ure/Q2rSv/spss-statistics" style=3D"text-decoration:none"><span style=3D"fo=
+nt-size:9pt; font-weight:bold; color:#333333">V=C3=ADdeo: </span><span styl=
+e=3D"font-size:9pt; color:#333333">V=C3=ADdeoSPSS Statistics</span></a></p>=
+<p style=3D"margin:1.5pt 18pt 0pt; line-height:13.5pt"><a href=3D"https://w=
+ww.coursera.org/learn/open-source-tools-for-data-science/lecture/Q2rSv/spss=
+-statistics" style=3D"text-decoration:none"><span style=3D"font-size:9pt; c=
+olor:#6b6b6b">. Duration: 7 minutes7 min</span></a></p><p style=3D"margin:0=
+pt 18pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-da=
+ta-science/lecture/roMpP/model-deployment-with-watson-machine-learning" sty=
+le=3D"text-decoration:none"><img src=3D"image.010.png" width=3D"22" height=
+=3D"22" alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-height:13.5pt"=
+><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data-scien=
+ce/lecture/roMpP/model-deployment-with-watson-machine-learning" style=3D"te=
+xt-decoration:none"><span style=3D"font-size:9pt; font-weight:bold; color:#=
+333333">V=C3=ADdeo: </span><span style=3D"font-size:9pt; color:#333333">V=
+=C3=ADdeoModel Deployment with Watson Machine Learning</span></a></p><p sty=
+le=3D"margin:1.5pt 18pt 0pt; line-height:13.5pt"><a href=3D"https://www.cou=
+rsera.org/learn/open-source-tools-for-data-science/lecture/roMpP/model-depl=
+oyment-with-watson-machine-learning" style=3D"text-decoration:none"><span s=
+tyle=3D"font-size:9pt; color:#6b6b6b">. Duration: 4 minutes4 min</span></a>=
+</p><p style=3D"margin:0pt 18pt"><a href=3D"https://www.coursera.org/learn/=
+open-source-tools-for-data-science/lecture/zQAw0/auto-ai-in-watson-studio" =
+style=3D"text-decoration:none"><img src=3D"image.010.png" width=3D"22" heig=
+ht=3D"22" alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-height:13.5p=
+t"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data-sci=
+ence/lecture/zQAw0/auto-ai-in-watson-studio" style=3D"text-decoration:none"=
+><span style=3D"font-size:9pt; font-weight:bold; color:#333333">V=C3=ADdeo:=
+ </span><span style=3D"font-size:9pt; color:#333333">V=C3=ADdeoAuto AI in W=
+atson Studio</span></a></p><p style=3D"margin:1.5pt 18pt 0pt; line-height:1=
+3.5pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data=
+-science/lecture/zQAw0/auto-ai-in-watson-studio" style=3D"text-decoration:n=
+one"><span style=3D"font-size:9pt; color:#6b6b6b">. Duration: 4 minutes4 mi=
+n</span></a></p><p style=3D"margin:0pt 18pt"><a href=3D"https://www.courser=
+a.org/learn/open-source-tools-for-data-science/lecture/5wRBQ/ibm-watson-ope=
+nscale" style=3D"text-decoration:none"><img src=3D"image.010.png" width=3D"=
+22" height=3D"22" alt=3D"" /></a></p><p style=3D"margin:0pt 18pt; line-heig=
+ht:13.5pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-=
+data-science/lecture/5wRBQ/ibm-watson-openscale" style=3D"text-decoration:n=
+one"><span style=3D"font-size:9pt; font-weight:bold; color:#333333">V=C3=AD=
+deo: </span><span style=3D"font-size:9pt; color:#333333">V=C3=ADdeoIBM Wats=
+on OpenScale</span></a></p><p style=3D"margin:1.5pt 18pt 0pt; line-height:1=
+3.5pt"><a href=3D"https://www.coursera.org/learn/open-source-tools-for-data=
+-science/lecture/5wRBQ/ibm-watson-openscale" style=3D"text-decoration:none"=
+><span style=3D"font-size:9pt; color:#6b6b6b">. Duration: 7 minutes7 min</s=
+pan></a></p><div style=3D"margin-right:18pt; margin-left:13.5pt; border-lef=
+t:4.5pt solid #2a73cc; clear:both"><p style=3D"margin-top:0pt; margin-botto=
+m:0pt; background-color:#f7f7f7"><a href=3D"https://www.coursera.org/learn/=
+open-source-tools-for-data-science/quiz/vZaU4/practice-quiz-other-ibm-tools=
+" style=3D"text-decoration:none"><img src=3D"image.010.png" width=3D"22" he=
+ight=3D"22" alt=3D"" /></a></p><p style=3D"margin-top:0pt; margin-bottom:0p=
+t; line-height:13.5pt; background-color:#f7f7f7"><a href=3D"https://www.cou=
+rsera.org/learn/open-source-tools-for-data-science/quiz/vZaU4/practice-quiz=
+-other-ibm-tools" style=3D"text-decoration:none"><span style=3D"font-size:9=
+pt; font-weight:bold; color:#333333">Teste para praticar: </span><span styl=
+e=3D"font-size:9pt; color:#333333">Practice Quiz - Other IBM Tools</span></=
+a></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:13.5pt; ba=
+ckground-color:#f7f7f7"><a href=3D"https://www.coursera.org/learn/open-sour=
+ce-tools-for-data-science/quiz/vZaU4/practice-quiz-other-ibm-tools" style=
+=3D"text-decoration:none"><span style=3D"font-size:9pt; color:#6b6b6b">12 p=
+erguntas</span></a></p></div><p style=3D"margin-top:0pt; margin-bottom:0pt;=
+ line-height:15pt; padding:4pt 18pt"><span style=3D"font-weight:bold">Modul=
+e 3 Assessment</span></p><p style=3D"margin-top:24pt; margin-bottom:0pt; li=
+ne-height:38.4pt"><span style=3D"font-size:33pt; letter-spacing:-0.1pt; col=
+or:#1f1f1f">Practice Quiz - Other IBM Tools</span></p><p style=3D"margin-to=
+p:6pt; margin-bottom:24pt; line-height:15pt"><span style=3D"color:#1f1f1f">=
+Teste para praticar36 minutes</span><span style=3D"color:#1f1f1f">&#xa0;</s=
+pan><span style=3D"color:#1f1f1f">=E2=80=A2</span><span style=3D"color:#1f1=
+f1f">&#xa0;</span><span style=3D"color:#1f1f1f">36 min</span></p><p style=
+=3D"margin-top:24pt; margin-right:6pt; margin-bottom:0pt; line-height:21pt;=
+ border-bottom:0.75pt solid #e5e7e8"><img src=3D"image.011.png" width=3D"22=
+" height=3D"22" alt=3D"" /></p><div style=3D"border-bottom:0.75pt solid #e5=
+e7e8; clear:both"><p style=3D"margin-top:0pt; margin-bottom:0pt; line-heigh=
+t:18pt; padding-bottom:6pt"><span style=3D"font-size:12pt; font-weight:bold=
+; letter-spacing:-0.1pt; color:#1f1f1f">Envie sua tarefa</span></p><p style=
+=3D"margin-top:0pt; margin-bottom:0pt"><span style=3D"font-size:12pt; font-=
+weight:bold; letter-spacing:-0.1pt; color:#0056d2">Tentar novamente</span><=
+/p></div><p style=3D"margin-top:0pt; margin-right:6pt; margin-bottom:0pt; l=
+ine-height:21pt; border-bottom:0.75pt solid #e5e7e8"><img src=3D"image.011.=
+png" width=3D"22" height=3D"22" alt=3D"" /></p><div style=3D"margin-bottom:=
+6pt; border-bottom:0.75pt solid #e5e7e8; clear:both"><p style=3D"margin-top=
+:0pt; margin-bottom:0pt; line-height:18pt; padding-bottom:6pt"><span style=
+=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#1f1f1f"=
+>Receber nota</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt"><spa=
+n style=3D"font-weight:bold; letter-spacing:-0.1pt; color:#636363">Para ser=
+ aprovado</span><span>&#xa0;</span><span style=3D"color:#636363">70% ou sup=
+erior</span></p></div><p style=3D"margin:0pt 12pt 0pt 18pt; line-height:18p=
+t; border-left:0.75pt solid #e5e7e8; border-bottom:0.75pt solid #e5e7e8"><s=
+pan style=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; color=
+:#1f1f1f">Sua nota</span></p><p style=3D"margin:0pt 12pt 0pt 18pt; line-hei=
+ght:27pt; border-left:0.75pt solid #e5e7e8"><span style=3D"font-size:21pt; =
+letter-spacing:-0.1pt; color:#1d7c50">100%</span></p><div style=3D"margin-l=
+eft:18pt; margin-bottom:6pt; border-left:0.75pt solid #e5e7e8; clear:both">=
+<p style=3D"margin-top:0pt; margin-bottom:0pt"><span style=3D"font-size:12p=
+t; font-weight:bold; letter-spacing:-0.1pt; color:#ffffff; background-color=
+:#0056d2">Ver feedback</span></p><p style=3D"margin-top:0pt; margin-bottom:=
+0pt; line-height:15pt"><span style=3D"color:#636363">Mantemos sua pontua=C3=
+=A7=C3=A3o mais alta</span></p></div><p style=3D"margin-top:9pt; margin-rig=
+ht:12pt; margin-bottom:0pt"><img src=3D"image.012.png" width=3D"22" height=
+=3D"22" alt=3D"" /><span style=3D"font-weight:bold; letter-spacing:-0.1pt; =
+color:#0056d2">Curtir</span></p><p style=3D"margin-top:0pt; margin-right:12=
+pt; margin-bottom:0pt"><img src=3D"image.013.png" width=3D"22" height=3D"22=
+" alt=3D"" /><span style=3D"font-weight:bold; letter-spacing:-0.1pt; color:=
+#0056d2">N=C3=A3o curtir</span></p><p style=3D"margin-top:0pt; margin-right=
+:12pt; margin-bottom:0pt"><img src=3D"image.014.png" width=3D"22" height=3D=
+"22" alt=3D"" /><span style=3D"font-weight:bold; letter-spacing:-0.1pt; col=
+or:#0056d2">Relatar problema</span></p><p style=3D"margin-top:0pt; margin-b=
+ottom:0pt"><span style=3D"font-size:9pt; color:#ffffff; background-color:#0=
+00000; display:none">Live chat:Chat with an Expert</span><img src=3D"image.=
+015.png" width=3D"22" height=3D"22" alt=3D"" /></p><p style=3D"margin-top:0=
+pt; margin-left:6pt; margin-bottom:0pt; text-align:center; line-height:18pt=
+; border-bottom:0.75pt solid #bdbdbd; background-color:#ffffff"><span style=
+=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#0056d2"=
+>Voltar</span></p><div style=3D"margin-left:12pt; border-bottom:0.75pt soli=
+d #bdbdbd; clear:both"><p style=3D"margin-top:0pt; margin-bottom:0pt; line-=
+height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; font-=
+weight:bold; letter-spacing:-0.1pt; color:#1f1f1f">Practice Quiz - Other IB=
+M Tools</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-heigh=
+t:15pt; background-color:#ffffff"><span style=3D"color:#636363">Teste para =
+praticar.</span><span style=3D"color:#636363">&#xa0;</span><span style=3D"c=
+olor:#636363">=E2=80=A2</span><span style=3D"color:#636363">&#xa0;</span><s=
+pan style=3D"color:#636363">36 min.</span><span style=3D"color:#636363">&#x=
+a0;</span><span style=3D"color:#636363">=E2=80=A2</span><span style=3D"colo=
+r:#636363">&#xa0;</span><span style=3D"color:#636363">12 pontos totais disp=
+on=C3=ADveis.12 pontos totais</span></p></div><p style=3D"margin-top:6pt; m=
+argin-right:9pt; margin-bottom:0pt; background-color:#f7fbf9"><img src=3D"i=
+mage.011.png" width=3D"22" height=3D"22" alt=3D"" /></p><p style=3D"margin-=
+top:0pt; margin-bottom:0pt; line-height:27pt; background-color:#f7fbf9"><sp=
+an style=3D"font-size:21pt; font-weight:bold; letter-spacing:-0.1pt; color:=
+#1f1f1f">Parab=C3=A9ns! Voc=C3=AA foi aprovado!</span></p><p style=3D"margi=
+n-top:6pt; margin-right:12pt; margin-bottom:0pt; background-color:#f7fbf9">=
+<span style=3D"font-size:15pt; font-weight:bold; letter-spacing:-0.1pt; col=
+or:#1f1f1f">Nota recebida</span><span>&#xa0;</span><span style=3D"font-size=
+:15pt; letter-spacing:-0.1pt; color:#1d7c50">100%</span></p><p style=3D"mar=
+gin-top:0pt; margin-right:12pt; margin-bottom:0pt; background-color:#f7fbf9=
+"><span style=3D"font-size:15pt; font-weight:bold; letter-spacing:-0.1pt; c=
+olor:#1f1f1f">Para ser aprovado</span><span>&#xa0;</span><span style=3D"fon=
+t-size:15pt; letter-spacing:-0.1pt; color:#1f1f1f">70% ou superior</span></=
+p><p style=3D"margin-top:0pt; margin-bottom:0pt; background-color:#f7fbf9">=
+<span style=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; col=
+or:#ffffff; background-color:#0056d2">Ir para o pr=C3=B3ximo item</span></p=
+><p style=3D"margin-top:36pt; margin-bottom:0pt; line-height:18pt; backgrou=
+nd-color:#ffffff"><span style=3D"font-size:12pt; font-weight:bold; letter-s=
+pacing:-0.1pt; color:#1f1f1f">1.</span></p><p style=3D"margin-top:0pt; marg=
+in-bottom:0pt; background-color:#ffffff"><span>Pergunta 1</span></p><p styl=
+e=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color=
+:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Which products (of =
+those we covered) allow you to build data pipelines using graphical user in=
+terface and no coding?</span></p><p style=3D"margin-top:0pt; margin-bottom:=
+0pt; padding:3pt; background-color:#e5e7e8"><span style=3D"font-weight:bold=
+; letter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"m=
+argin-top:9.75pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"=
+image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin=
+-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><i=
+nput name=3D"yckOL4WGEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.734243218315=
+0478" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18p=
+t; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">=
+Only IBM SPSS Statistics.</span></p><p style=3D"margin-top:9pt; margin-bott=
+om:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"26" h=
+eight=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; =
+line-height:18pt; background-color:#ffffff"><input name=3D"yckOL4WGEeq8vw43=
+pxfh5Q" type=3D"radio" value=3D"0.8584880934259935" /></p><p style=3D"margi=
+n-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff">=
+<span style=3D"font-size:12pt; color:#1f1f1f">Only IBM SPSS Modeler.</span>=
+</p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff=
+"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p s=
+tyle=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-col=
+or:#ffffff"><input name=3D"yckOL4WGEeq8vw43pxfh5Q" type=3D"radio" value=3D"=
+0.5854057152950258" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; l=
+ine-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; c=
+olor:#1f1f1f">OpenScale</span></p><p style=3D"margin-top:9pt; margin-bottom=
+:0pt; background-color:#ffffff"><img src=3D"image.017.png" width=3D"26" hei=
+ght=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; li=
+ne-height:18pt; background-color:#ffffff"><input checked=3D"true" name=3D"y=
+ckOL4WGEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.3814589887496336" /></p><p=
+ style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-=
+color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">IBM SPSS Model=
+er and Modeler Flows in Watson Studio.</span></p><p style=3D"margin-top:9pt=
+; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" w=
+idth=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin=
+-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"yck=
+OL4WGEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.47990840527530754" /></p><p =
+style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-c=
+olor:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">All of the abov=
+e.</span></p><p style=3D"margin:12pt 15pt 0pt 9pt; background-color:#f7fbf9=
+"><img src=3D"image.018.png" width=3D"22" height=3D"22" alt=3D"" /></p><p s=
+tyle=3D"margin:0pt 9pt 36pt; line-height:15pt; background-color:#f7fbf9"><s=
+pan style=3D"font-weight:bold; letter-spacing:-0.1pt; color:#1d7c50">Corret=
+o</span></p><p style=3D"margin-top:49.5pt; margin-bottom:0pt; line-height:1=
+8pt; background-color:#ffffff"><span style=3D"font-size:12pt; font-weight:b=
+old; letter-spacing:-0.1pt; color:#1f1f1f">2.</span></p><p style=3D"margin-=
+top:0pt; margin-bottom:0pt; background-color:#ffffff"><span>Pergunta 2</spa=
+n></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; bac=
+kground-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Which =
+features of Data Refinery help save hours and days of data preparation?</sp=
+an></p><p style=3D"margin-top:0pt; margin-bottom:0pt; padding:3pt; backgrou=
+nd-color:#e5e7e8"><span style=3D"font-weight:bold; letter-spacing:-0.1pt; c=
+olor:#1f1f1f">1 / 1 ponto</span></p><p style=3D"margin-top:9.75pt; margin-b=
+ottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"26=
+" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0p=
+t; line-height:18pt; background-color:#ffffff"><input name=3D"43NEx4WIEeqEg=
+Aqb3VzAZw" type=3D"radio" value=3D"0.8754733906416536" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#fffff=
+f"><span style=3D"font-size:12pt; color:#1f1f1f">Flexibility of using Intui=
+tive user interface and coding templates enabled with powerful operations t=
+o shape and clean data.</span></p><p style=3D"margin-top:9pt; margin-bottom=
+:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"26" hei=
+ght=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; li=
+ne-height:18pt; background-color:#ffffff"><input name=3D"43NEx4WIEeqEgAqb3V=
+zAZw" type=3D"radio" value=3D"0.4266491332704305" /></p><p style=3D"margin-=
+top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><s=
+pan style=3D"font-size:12pt; color:#1f1f1f">Data visualization and profiles=
+ to spot the difference and guide data preparation steps.</span></p><p styl=
+e=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=
+=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><input name=3D"43NEx4WIEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.97355088=
+47465588" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height=
+:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f=
+1f">Incremental snapshots of the results allowing the user to gauge success=
+ with each iterative change.</span></p><p style=3D"margin-top:9pt; margin-b=
+ottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"26=
+" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0p=
+t; line-height:18pt; background-color:#ffffff"><input name=3D"43NEx4WIEeqEg=
+Aqb3VzAZw" type=3D"radio" value=3D"0.2458289600096919" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#fffff=
+f"><span style=3D"font-size:12pt; color:#1f1f1f">Saving, editing and fixing=
+ the steps provide ability to iteratively fix the steps in the flow.</span>=
+</p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff=
+"><img src=3D"image.017.png" width=3D"26" height=3D"26" alt=3D"" /></p><p s=
+tyle=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-col=
+or:#ffffff"><input checked=3D"true" name=3D"43NEx4WIEeqEgAqb3VzAZw" type=3D=
+"radio" value=3D"0.9693638471466719" /></p><p style=3D"margin-top:0pt; marg=
+in-bottom:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"=
+font-size:12pt; color:#1f1f1f">All of the above.</span></p><p style=3D"marg=
+in:12pt 15pt 0pt 9pt; background-color:#f7fbf9"><img src=3D"image.018.png" =
+width=3D"22" height=3D"22" alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; =
+line-height:15pt; background-color:#f7fbf9"><span style=3D"font-weight:bold=
+; letter-spacing:-0.1pt; color:#1d7c50">Correto</span></p><p style=3D"margi=
+n-top:49.5pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><span style=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; c=
+olor:#1f1f1f">3.</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; b=
+ackground-color:#ffffff"><span>Pergunta 3</span></p><p style=3D"margin-top:=
+0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span =
+style=3D"font-size:12pt; color:#1f1f1f">Watson Knowledge Catalog provides w=
+hat functionality?</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt;=
+ padding:3pt; background-color:#e5e7e8"><span style=3D"font-weight:bold; le=
+tter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"margi=
+n-top:9.75pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"imag=
+e.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top=
+:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input=
+ name=3D"XntAooWNEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.9544142214097431=
+" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; b=
+ackground-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Cata=
+log all books mentioning Doctor Watson and Sherlock Holmes.</span></p><p st=
+yle=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img sr=
+c=3D"image.017.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"m=
+argin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#fffff=
+f"><input checked=3D"true" name=3D"XntAooWNEeq8vw43pxfh5Q" type=3D"radio" v=
+alue=3D"0.6251091839591179" /></p><p style=3D"margin-top:0pt; margin-bottom=
+:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-size=
+:12pt; color:#1f1f1f">Catalog data and ML assets, help to find relevant ass=
+ets, keep track of asset lineage, enforce data governance.</span></p><p sty=
+le=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=
+=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><input name=3D"XntAooWNEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.73208293=
+7258228" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:=
+18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1=
+f">Process data, build and deploy models.</span></p><p style=3D"margin-top:=
+9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png=
+" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; mar=
+gin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"=
+XntAooWNEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.8801328957286352" /></p><=
+p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background=
+-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Create data a=
+nd deploy models into production.</span></p><p style=3D"margin-top:9pt; mar=
+gin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=
+=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bot=
+tom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"XntAooW=
+NEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.2131873475747137" /></p><p style=
+=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:=
+#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Build data and water=
+ pipelines.</span></p><p style=3D"margin:12pt 15pt 0pt 9pt; background-colo=
+r:#f7fbf9"><img src=3D"image.018.png" width=3D"22" height=3D"22" alt=3D"" /=
+></p><p style=3D"margin:0pt 9pt 36pt; line-height:15pt; background-color:#f=
+7fbf9"><span style=3D"font-weight:bold; letter-spacing:-0.1pt; color:#1d7c5=
+0">Correto</span></p><p style=3D"margin-top:49.5pt; margin-bottom:0pt; line=
+-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; font=
+-weight:bold; letter-spacing:-0.1pt; color:#1f1f1f">4.</span></p><p style=
+=3D"margin-top:0pt; margin-bottom:0pt; background-color:#ffffff"><span>Perg=
+unta 4</span></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-heigh=
+t:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1=
+f1f">Fill in the blank: PMML, PFA, and ONNX are __________________.</span><=
+/p><p style=3D"margin-top:0pt; margin-bottom:0pt; padding:3pt; background-c=
+olor:#e5e7e8"><span style=3D"font-weight:bold; letter-spacing:-0.1pt; color=
+:#1f1f1f">1 / 1 ponto</span></p><p style=3D"margin-top:9.75pt; margin-botto=
+m:0pt; background-color:#ffffff"><img src=3D"image.017.png" width=3D"26" he=
+ight=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; l=
+ine-height:18pt; background-color:#ffffff"><input checked=3D"true" name=3D"=
+qiWFO4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.846741857673347" /></p><p=
+ style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-=
+color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Open standards=
+ for predictive model serialization, exchange, and deployment.</span></p><p=
+ style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img=
+ src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=
+=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#=
+ffffff"><input name=3D"qiWFO4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.51=
+48358761196099" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-=
+height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color=
+:#1f1f1f">Abbreviations for machine learning algorithm names.</span></p><p =
+style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img =
+src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D=
+"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#fff=
+fff"><input name=3D"qiWFO4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.60346=
+66177578276" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-hei=
+ght:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1=
+f1f1f">Passwords for some super-secret system.</span></p><p style=3D"margin=
+-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.01=
+6.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt=
+; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input nam=
+e=3D"qiWFO4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.739915003185107" /><=
+/p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; backgr=
+ound-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Codes for=
+ getting rid of undesired data or models.</span></p><p style=3D"margin-top:=
+9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png=
+" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; mar=
+gin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"=
+qiWFO4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.4569901699031844" /></p><=
+p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background=
+-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Robots that a=
+re plotting to take over the planet.</span></p><p style=3D"margin:12pt 15pt=
+ 0pt 9pt; background-color:#f7fbf9"><img src=3D"image.018.png" width=3D"22"=
+ height=3D"22" alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; line-height:=
+15pt; background-color:#f7fbf9"><span style=3D"font-weight:bold; letter-spa=
+cing:-0.1pt; color:#1d7c50">Correto</span></p><p style=3D"margin-top:49.5pt=
+; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><span styl=
+e=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#1f1f1f=
+">5.</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; background-co=
+lor:#ffffff"><span>Pergunta 5</span></p><p style=3D"margin-top:0pt; margin-=
+bottom:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"fon=
+t-size:12pt; color:#1f1f1f">Which node must be used in Modeler flows before=
+ any modeling node?</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt=
+; padding:3pt; background-color:#e5e7e8"><span style=3D"font-weight:bold; l=
+etter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"marg=
+in-top:9.75pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"ima=
+ge.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-to=
+p:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><inpu=
+t name=3D"tan58oWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.783625681810816=
+7" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; =
+background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Out=
+put node</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; backgroun=
+d-color:#ffffff"><img src=3D"image.017.png" width=3D"26" height=3D"26" alt=
+=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt=
+; background-color:#ffffff"><input checked=3D"true" name=3D"tan58oWNEeqEgAq=
+b3VzAZw" type=3D"radio" value=3D"0.4210210764710747" /></p><p style=3D"marg=
+in-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"=
+><span style=3D"font-size:12pt; color:#1f1f1f">Type node</span></p><p style=
+=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=
+=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><input name=3D"tan58oWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.45251699=
+182914207" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-heigh=
+t:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1=
+f1f">Derive node</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; b=
+ackground-color:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D"=
+26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-heig=
+ht:18pt; background-color:#ffffff"><input name=3D"tan58oWNEeqEgAqb3VzAZw" t=
+ype=3D"radio" value=3D"0.7491254335789523" /></p><p style=3D"margin-top:0pt=
+; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span sty=
+le=3D"font-size:12pt; color:#1f1f1f">Auto Numeric node</span></p><p style=
+=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=
+=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><input name=3D"tan58oWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.05865993=
+1524045916" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-heig=
+ht:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f=
+1f1f">All of the above</span></p><p style=3D"margin:12pt 15pt 0pt 9pt; back=
+ground-color:#f7fbf9"><img src=3D"image.018.png" width=3D"22" height=3D"22"=
+ alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; line-height:15pt; backgrou=
+nd-color:#f7fbf9"><span style=3D"font-weight:bold; letter-spacing:-0.1pt; c=
+olor:#1d7c50">Correto</span></p><p style=3D"margin-top:49.5pt; margin-botto=
+m:0pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-size=
+:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#1f1f1f">6.</span></p=
+><p style=3D"margin-top:0pt; margin-bottom:0pt; background-color:#ffffff"><=
+span>Pergunta 6</span></p><p style=3D"margin-top:0pt; margin-bottom:12pt; l=
+ine-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; c=
+olor:#1f1f1f">Fill in the blank: Auto Classification node can be used for d=
+ata with ______________.</span></p><p style=3D"margin-top:0pt; margin-botto=
+m:0pt; padding:3pt; background-color:#e5e7e8"><span style=3D"font-weight:bo=
+ld; letter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D=
+"margin-top:9.75pt; margin-bottom:0pt; background-color:#ffffff"><img src=
+=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><input name=3D"t0t09IWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.31717099=
+18442913" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height=
+:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f=
+1f">No target variables.</span></p><p style=3D"margin-top:9pt; margin-botto=
+m:0pt; background-color:#ffffff"><img src=3D"image.017.png" width=3D"26" he=
+ight=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; l=
+ine-height:18pt; background-color:#ffffff"><input checked=3D"true" name=3D"=
+t0t09IWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.5282814249361851" /></p><=
+p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background=
+-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">A categorical=
+ target variable.</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; =
+background-color:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D=
+"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-hei=
+ght:18pt; background-color:#ffffff"><input name=3D"t0t09IWNEeqEgAqb3VzAZw" =
+type=3D"radio" value=3D"0.020382821214688818" /></p><p style=3D"margin-top:=
+0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span =
+style=3D"font-size:12pt; color:#1f1f1f">A continuous target variable.</span=
+></p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#fffff=
+f"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p =
+style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-co=
+lor:#ffffff"><input name=3D"t0t09IWNEeqEgAqb3VzAZw" type=3D"radio" value=3D=
+"0.7632155141833747" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; =
+line-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; =
+color:#1f1f1f">Any target variable.</span></p><p style=3D"margin-top:9pt; m=
+argin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" widt=
+h=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bo=
+ttom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"t0t09I=
+WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.2750835501423867" /></p><p styl=
+e=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color=
+:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">All of the above</s=
+pan></p><p style=3D"margin:12pt 15pt 0pt 9pt; background-color:#f7fbf9"><im=
+g src=3D"image.018.png" width=3D"22" height=3D"22" alt=3D"" /></p><p style=
+=3D"margin:0pt 9pt 36pt; line-height:15pt; background-color:#f7fbf9"><span =
+style=3D"font-weight:bold; letter-spacing:-0.1pt; color:#1d7c50">Correto</s=
+pan></p><p style=3D"margin-top:49.5pt; margin-bottom:0pt; line-height:18pt;=
+ background-color:#ffffff"><span style=3D"font-size:12pt; font-weight:bold;=
+ letter-spacing:-0.1pt; color:#1f1f1f">7.</span></p><p style=3D"margin-top:=
+0pt; margin-bottom:0pt; background-color:#ffffff"><span>Pergunta 7</span></=
+p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; backgro=
+und-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Fill in th=
+e blank: Auto Numeric node can be used for data with __________________.</s=
+pan></p><p style=3D"margin-top:0pt; margin-bottom:0pt; padding:3pt; backgro=
+und-color:#e5e7e8"><span style=3D"font-weight:bold; letter-spacing:-0.1pt; =
+color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"margin-top:9.75pt; margin-=
+bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"2=
+6" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0=
+pt; line-height:18pt; background-color:#ffffff"><input name=3D"uOxTtYWNEeqE=
+gAqb3VzAZw" type=3D"radio" value=3D"0.10444054159069571" /></p><p style=3D"=
+margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#fff=
+fff"><span style=3D"font-size:12pt; color:#1f1f1f">No target variables.</sp=
+an></p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#fff=
+fff"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><=
+p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-=
+color:#ffffff"><input name=3D"uOxTtYWNEeqEgAqb3VzAZw" type=3D"radio" value=
+=3D"0.23077108259094614" /></p><p style=3D"margin-top:0pt; margin-bottom:12=
+pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-size:12=
+pt; color:#1f1f1f">A categorical target variable.</span></p><p style=3D"mar=
+gin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image=
+.017.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:=
+0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input =
+checked=3D"true" name=3D"uOxTtYWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.=
+5356747629543357" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; lin=
+e-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; col=
+or:#1f1f1f">A continuous target variable.</span></p><p style=3D"margin-top:=
+9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png=
+" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; mar=
+gin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"=
+uOxTtYWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.6797771381066346" /></p><=
+p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background=
+-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Any target va=
+riable.</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; background=
+-color:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=
+=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt=
+; background-color:#ffffff"><input name=3D"uOxTtYWNEeqEgAqb3VzAZw" type=3D"=
+radio" value=3D"0.5792887225102314" /></p><p style=3D"margin-top:0pt; margi=
+n-bottom:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"f=
+ont-size:12pt; color:#1f1f1f">All of the above.</span></p><p style=3D"margi=
+n:12pt 15pt 0pt 9pt; background-color:#f7fbf9"><img src=3D"image.018.png" w=
+idth=3D"22" height=3D"22" alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; l=
+ine-height:15pt; background-color:#f7fbf9"><span style=3D"font-weight:bold;=
+ letter-spacing:-0.1pt; color:#1d7c50">Correto</span></p><p style=3D"margin=
+-top:49.5pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"=
+><span style=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; co=
+lor:#1f1f1f">8.</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; ba=
+ckground-color:#ffffff"><span>Pergunta 8</span></p><p style=3D"margin-top:0=
+pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span s=
+tyle=3D"font-size:12pt; color:#1f1f1f">IBM SPSS Modeler evolved from which =
+product?</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; padding:3=
+pt; background-color:#e5e7e8"><span style=3D"font-weight:bold; letter-spaci=
+ng:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"margin-top:9.75=
+pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png"=
+ width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; marg=
+in-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"u=
+m78F4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.8706233954724161" /></p><p=
+ style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-=
+color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Netezza</span>=
+</p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff=
+"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p s=
+tyle=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-col=
+or:#ffffff"><input name=3D"um78F4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"=
+0.6941572504294018" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; l=
+ine-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; c=
+olor:#1f1f1f">IBM DB2</span></p><p style=3D"margin-top:9pt; margin-bottom:0=
+pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"26" heigh=
+t=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line=
+-height:18pt; background-color:#ffffff"><input name=3D"um78F4WNEeqEgAqb3VzA=
+Zw" type=3D"radio" value=3D"0.8877226458098715" /></p><p style=3D"margin-to=
+p:0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><spa=
+n style=3D"font-size:12pt; color:#1f1f1f">SPSS</span></p><p style=3D"margin=
+-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.01=
+7.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt=
+; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input che=
+cked=3D"true" name=3D"um78F4WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.440=
+86501985558857" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-=
+height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color=
+:#1f1f1f">Clementine</span></p><p style=3D"margin-top:9pt; margin-bottom:0p=
+t; background-color:#ffffff"><img src=3D"image.016.png" width=3D"26" height=
+=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-=
+height:18pt; background-color:#ffffff"><input name=3D"um78F4WNEeqEgAqb3VzAZ=
+w" type=3D"radio" value=3D"0.9687612385850135" /></p><p style=3D"margin-top=
+:0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span=
+ style=3D"font-size:12pt; color:#1f1f1f">Oracle</span></p><p style=3D"margi=
+n:12pt 15pt 0pt 9pt; background-color:#f7fbf9"><img src=3D"image.018.png" w=
+idth=3D"22" height=3D"22" alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; l=
+ine-height:15pt; background-color:#f7fbf9"><span style=3D"font-weight:bold;=
+ letter-spacing:-0.1pt; color:#1d7c50">Correto</span></p><p style=3D"margin=
+-top:49.5pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"=
+><span style=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; co=
+lor:#1f1f1f">9.</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; ba=
+ckground-color:#ffffff"><span>Pergunta 9</span></p><p style=3D"margin-top:0=
+pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span s=
+tyle=3D"font-size:12pt; color:#1f1f1f">Fill in the blank: IBM SPSS Statisti=
+cs syntax can be created using ___________.</span></p><p style=3D"margin-to=
+p:0pt; margin-bottom:0pt; padding:3pt; background-color:#e5e7e8"><span styl=
+e=3D"font-weight:bold; letter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</s=
+pan></p><p style=3D"margin-top:9.75pt; margin-bottom:0pt; background-color:=
+#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /><=
+/p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; backgro=
+und-color:#ffffff"><input name=3D"u_Q9J4WNEeq8vw43pxfh5Q" type=3D"radio" va=
+lue=3D"0.7297802792381416" /></p><p style=3D"margin-top:0pt; margin-bottom:=
+12pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-size:=
+12pt; color:#1f1f1f">IBM SPSS Modeler streams.</span></p><p style=3D"margin=
+-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.01=
+6.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt=
+; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input nam=
+e=3D"u_Q9J4WNEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.6558807296945481" />=
+</p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; backg=
+round-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">OpenScal=
+e</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color=
+:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" />=
+</p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; backgr=
+ound-color:#ffffff"><input name=3D"u_Q9J4WNEeq8vw43pxfh5Q" type=3D"radio" v=
+alue=3D"0.4744539383744779" /></p><p style=3D"margin-top:0pt; margin-bottom=
+:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-size=
+:12pt; color:#1f1f1f">AutoAI</span></p><p style=3D"margin-top:9pt; margin-b=
+ottom:0pt; background-color:#ffffff"><img src=3D"image.017.png" width=3D"26=
+" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0p=
+t; line-height:18pt; background-color:#ffffff"><input checked=3D"true" name=
+=3D"u_Q9J4WNEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.24480837858189242" />=
+</p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; backg=
+round-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Graphica=
+l user interface of IBM SPSS Statistics product or syntax editor.</span></p=
+><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><=
+img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p styl=
+e=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:=
+#ffffff"><input name=3D"u_Q9J4WNEeq8vw43pxfh5Q" type=3D"radio" value=3D"0.2=
+815709272500213" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line=
+-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; colo=
+r:#1f1f1f">Watson Studio Modeler flows.</span></p><p style=3D"margin:12pt 1=
+5pt 0pt 9pt; background-color:#f7fbf9"><img src=3D"image.018.png" width=3D"=
+22" height=3D"22" alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; line-heig=
+ht:15pt; background-color:#f7fbf9"><span style=3D"font-weight:bold; letter-=
+spacing:-0.1pt; color:#1d7c50">Correto</span></p><p style=3D"margin-top:49.=
+5pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><span s=
+tyle=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#1f1=
+f1f">10.</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; backgroun=
+d-color:#ffffff"><span>Pergunta 10</span></p><p style=3D"margin-top:0pt; ma=
+rgin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span style=
+=3D"font-size:12pt; color:#1f1f1f">AutoAI provides which of the following s=
+ervices?</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; padding:3=
+pt; background-color:#e5e7e8"><span style=3D"font-weight:bold; letter-spaci=
+ng:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"margin-top:9.75=
+pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png"=
+ width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; marg=
+in-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"v=
+WkpSYWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.869769492245565" /></p><p =
+style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-c=
+olor:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Monitoring for =
+fairness, bias, and model drift.</span></p><p style=3D"margin-top:9pt; marg=
+in-bottom:0pt; background-color:#ffffff"><img src=3D"image.017.png" width=
+=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bot=
+tom:0pt; line-height:18pt; background-color:#ffffff"><input checked=3D"true=
+" name=3D"vWkpSYWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.232299973688006=
+26" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; =
+background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Aut=
+omatic finding of optimal data preparation steps, model selection, and hype=
+rparameter optimization.</span></p><p style=3D"margin-top:0pt; margin-botto=
+m:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"color:#1=
+f1f1f">&#xa0;</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; back=
+ground-color:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D"26"=
+ alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:=
+18pt; background-color:#ffffff"><input name=3D"vWkpSYWNEeqEgAqb3VzAZw" type=
+=3D"radio" value=3D"0.307642778737905" /></p><p style=3D"margin-top:0pt; ma=
+rgin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span style=
+=3D"font-size:12pt; color:#1f1f1f">Cataloging data and model assets.</span>=
+</p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff=
+"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p s=
+tyle=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-col=
+or:#ffffff"><input name=3D"vWkpSYWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"=
+0.2023177090670749" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; l=
+ine-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; c=
+olor:#1f1f1f">Creating SPSS syntax.</span></p><p style=3D"margin-top:9pt; m=
+argin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" widt=
+h=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bo=
+ttom:0pt; line-height:18pt; background-color:#ffffff"><input name=3D"vWkpSY=
+WNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.5212535227307258" /></p><p styl=
+e=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:=
+#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">All of the above.</s=
+pan></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; b=
+ackground-color:#ffffff"><span style=3D"color:#1f1f1f">&#xa0;</span></p><p =
+style=3D"margin:12pt 15pt 0pt 9pt; background-color:#f7fbf9"><img src=3D"im=
+age.018.png" width=3D"22" height=3D"22" alt=3D"" /></p><p style=3D"margin:0=
+pt 9pt 36pt; line-height:15pt; background-color:#f7fbf9"><span style=3D"fon=
+t-weight:bold; letter-spacing:-0.1pt; color:#1d7c50">Correto</span></p><p s=
+tyle=3D"margin-top:49.5pt; margin-bottom:0pt; line-height:18pt; background-=
+color:#ffffff"><span style=3D"font-size:12pt; font-weight:bold; letter-spac=
+ing:-0.1pt; color:#1f1f1f">11.</span></p><p style=3D"margin-top:0pt; margin=
+-bottom:0pt; background-color:#ffffff"><span>Pergunta 11</span></p><p style=
+=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:=
+#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">OpenScale provides w=
+hich of the following services?</span></p><p style=3D"margin-top:0pt; margi=
+n-bottom:0pt; padding:3pt; background-color:#e5e7e8"><span style=3D"font-we=
+ight:bold; letter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p s=
+tyle=3D"margin-top:9.75pt; margin-bottom:0pt; background-color:#ffffff"><im=
+g src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=
+=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#=
+ffffff"><input name=3D"wDYE7IWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.94=
+190487165339" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-he=
+ight:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; color:#=
+1f1f1f">Creating SPSS syntax.</span></p><p style=3D"margin-top:9pt; margin-=
+bottom:0pt; background-color:#ffffff"><img src=3D"image.016.png" width=3D"2=
+6" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0=
+pt; line-height:18pt; background-color:#ffffff"><input name=3D"wDYE7IWNEeqE=
+gAqb3VzAZw" type=3D"radio" value=3D"0.31805880181176316" /></p><p style=3D"=
+margin-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#fff=
+fff"><span style=3D"font-size:12pt; color:#1f1f1f">Automatic finding of opt=
+imal data preparation steps, model selection, and hyperparameter optimizati=
+on.</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-col=
+or:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" =
+/></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; back=
+ground-color:#ffffff"><input name=3D"wDYE7IWNEeqEgAqb3VzAZw" type=3D"radio"=
+ value=3D"0.8009555548676044" /></p><p style=3D"margin-top:0pt; margin-bott=
+om:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-si=
+ze:12pt; color:#1f1f1f">Cataloging data and model assets.</span></p><p styl=
+e=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=
+=3D"image.017.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"ma=
+rgin-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff=
+"><input checked=3D"true" name=3D"wDYE7IWNEeqEgAqb3VzAZw" type=3D"radio" va=
+lue=3D"0.30783942318884416" /></p><p style=3D"margin-top:0pt; margin-bottom=
+:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"font-size=
+:12pt; color:#1f1f1f">Monitoring for fairness, bias, and model drift.</span=
+></p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#fffff=
+f"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p =
+style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-co=
+lor:#ffffff"><input name=3D"wDYE7IWNEeqEgAqb3VzAZw" type=3D"radio" value=3D=
+"0.20616480832727957" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt;=
+ line-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt;=
+ color:#1f1f1f">All of the above.</span></p><p style=3D"margin:12pt 15pt 0p=
+t 9pt; background-color:#f7fbf9"><img src=3D"image.018.png" width=3D"22" he=
+ight=3D"22" alt=3D"" /></p><p style=3D"margin:0pt 9pt 36pt; line-height:15p=
+t; background-color:#f7fbf9"><span style=3D"font-weight:bold; letter-spacin=
+g:-0.1pt; color:#1d7c50">Correto</span></p><p style=3D"margin-top:49.5pt; m=
+argin-bottom:0pt; line-height:18pt; background-color:#ffffff"><span style=
+=3D"font-size:12pt; font-weight:bold; letter-spacing:-0.1pt; color:#1f1f1f"=
+>12.</span></p><p style=3D"margin-top:0pt; margin-bottom:0pt; background-co=
+lor:#ffffff"><span>Pergunta 12</span></p><p style=3D"margin-top:0pt; margin=
+-bottom:12pt; line-height:18pt; background-color:#ffffff"><span style=3D"fo=
+nt-size:12pt; color:#1f1f1f">Predictive Model Markup Language (PMML) was cr=
+eated by which entity?</span></p><p style=3D"margin-top:0pt; margin-bottom:=
+0pt; padding:3pt; background-color:#e5e7e8"><span style=3D"font-weight:bold=
+; letter-spacing:-0.1pt; color:#1f1f1f">1 / 1 ponto</span></p><p style=3D"m=
+argin-top:9.75pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"=
+image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin=
+-top:0pt; margin-bottom:0pt; line-height:18pt; background-color:#ffffff"><i=
+nput name=3D"vubvqoWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.593983801692=
+2747" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18p=
+t; background-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">=
+Microsoft</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; backgrou=
+nd-color:#ffffff"><img src=3D"image.017.png" width=3D"26" height=3D"26" alt=
+=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt=
+; background-color:#ffffff"><input checked=3D"true" name=3D"vubvqoWNEeqEgAq=
+b3VzAZw" type=3D"radio" value=3D"0.6562591281850425" /></p><p style=3D"marg=
+in-top:0pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"=
+><span style=3D"font-size:12pt; color:#1f1f1f">The Data Mining Group</span>=
+</p><p style=3D"margin-top:9pt; margin-bottom:0pt; background-color:#ffffff=
+"><img src=3D"image.016.png" width=3D"26" height=3D"26" alt=3D"" /></p><p s=
+tyle=3D"margin-top:0pt; margin-bottom:0pt; line-height:18pt; background-col=
+or:#ffffff"><input name=3D"vubvqoWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"=
+0.6881261514288362" /></p><p style=3D"margin-top:0pt; margin-bottom:12pt; l=
+ine-height:18pt; background-color:#ffffff"><span style=3D"font-size:12pt; c=
+olor:#1f1f1f">IBM</span></p><p style=3D"margin-top:9pt; margin-bottom:0pt; =
+background-color:#ffffff"><img src=3D"image.016.png" width=3D"26" height=3D=
+"26" alt=3D"" /></p><p style=3D"margin-top:0pt; margin-bottom:0pt; line-hei=
+ght:18pt; background-color:#ffffff"><input name=3D"vubvqoWNEeqEgAqb3VzAZw" =
+type=3D"radio" value=3D"0.41538374181459226" /></p><p style=3D"margin-top:0=
+pt; margin-bottom:12pt; line-height:18pt; background-color:#ffffff"><span s=
+tyle=3D"font-size:12pt; color:#1f1f1f">SPSS</span></p><p style=3D"margin-to=
+p:9pt; margin-bottom:0pt; background-color:#ffffff"><img src=3D"image.016.p=
+ng" width=3D"26" height=3D"26" alt=3D"" /></p><p style=3D"margin-top:0pt; m=
+argin-bottom:0pt; line-height:18pt; background-color:#ffffff"><input name=
+=3D"vubvqoWNEeqEgAqb3VzAZw" type=3D"radio" value=3D"0.5183281403654214" /><=
+/p><p style=3D"margin-top:0pt; margin-bottom:12pt; line-height:18pt; backgr=
+ound-color:#ffffff"><span style=3D"font-size:12pt; color:#1f1f1f">Oracle</s=
+pan></p><p style=3D"margin:12pt 15pt 0pt 9pt; background-color:#f7fbf9"><im=
+g src=3D"image.018.png" width=3D"22" height=3D"22" alt=3D"" /></p><p style=
+=3D"margin:0pt 9pt 36pt; line-height:15pt; background-color:#f7fbf9"><span =
+style=3D"font-weight:bold; letter-spacing:-0.1pt; color:#1d7c50">Correto</s=
+pan></p></div></body></html>
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.001.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.001.png
+
+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
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.002.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.002.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAH9JREFUSIljZCASyMvL/0fmP3z4kJFYvURbgG4JPnGyLaGGGgYGBgYm
+yp1DISAlWIhRSzcfjVo0RC0iJyOSlXnpYhElxQrReqlRdhE0g2oFJA6zmKhtCT7L6GLR8MuwLDAG
+LYKPJIDLATRxGK42AylmEB1HyAbTPJip2vIZ8gAAITMuQHmBI8EAAAAASUVORK5CYII=
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.003.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.003.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAHRJREFUSIntlEsOwCAIBcX735muStIE9CGUGOMs/TAQ0NaKIOQQM7N6
+mQi6D4ksiVfW0YyiDLOZVSNBgKrKKgqLUnrkmaqQKJM9pu6l5MFassz+XfbAbCj6z0mgyXB8Nr3B
+PVJZyJJYMvpDosnO++vKRJdlHkpIJCTyMPIjAAAAAElFTkSuQmCC
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.004.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.004.png
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAACdJREFUOI1jYBgFowACzKyd/lNDDV7FJBmASyPZhiAbQLEho2AkAAAC
+dw2RoYWpUwAAAABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.005.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.005.png
+
+iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAADBJREFUSIljNLN2+s9AZXDq6D5Gaps5CkbBMAaMo/lwFIwCdDCaLUbB
+KBgFo2AIAgB+qAwEznuIcgAAAABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.006.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.006.png
+
+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
+/8f/2PgPV4CVh2fiGGQAAAAASUVORK5CYII=
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.007.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.007.png
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAACFJREFUOI1jYKAx+D9q2EgwjImathALqOK1UUNoZMgwAQAwuAz26TK6
+fAAAAABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.008.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.008.png
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAACJJREFUOI1jYBgA8H/UkOFmCBM1bMYHqOK1UcMGiWFDCAAATJwM9gJO
+ahYAAAAASUVORK5CYII=
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.009.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.009.png
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAACJJREFUOI1jYBhsgBGJ/Z8CvQxMlLtl2IPRwKYjGA3soQgAZJ4DCubB
+w+oAAAAASUVORK5CYII=
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.010.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.010.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAJJJREFUOI3tlM0NgCAMhR+Ne7iU63ByHZZiEr2IQUJ/qOFgYo+l/fqA
+tsAkC9zBum+HlJhjYnO7YA1oLfBwjkIl+O3wQjk4vYFJRoBPbauwZbgUax3hAheodkvqBeSYQk+V
+FQoA1AOUxPpsBApc7cYFax8kxYtvXINGO2fRAryD873Jm7+EvHDT2hwpYBnr3wAAJ7OVThOkGAbA
+AAAAAElFTkSuQmCC
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.011.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.011.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAEFJREFUOI1jYBgFo4Ca4D8+SSZaGEou+E+Jwbg0Em0oIwFDGbGIY9ND
+lMHYDCfJUEIK0b1MtKHEAIoiahSMgqEOAIn4Df2d/0RRAAAAAElFTkSuQmCC
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.012.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.012.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAFpJREFUOI1jYBhA8B+KSQJMNHAIUYAs1xJrMFkAX1D8x8EmCjASMJQR
+ixhRZuDTiK6BkKtR1LOQ4ApcviPGUrIBhsE0S8cj02D6RRwDA3EZAB/AlwRHwShAAwDK4BALpSJr
+VQAAAABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.013.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.013.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAF1JREFUOI1jYBhqgBGL2H9qmMVEpiEkA3Jdi6GPLi4m17VY9dLMxUPP
+YBYK9CKHK7b8gFUhxQDZJkIG43UVOkAOY0YiNVPVZ/9JNZDUVEG04aQaTHQ40610GwXUBwC2RAwT
+9GH5kAAAAABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.014.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.014.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAADhJREFUOI1jZECA/wzkA0Z8kuQajFUfE5mGEQSjBo8ajAlY0PiUZBKc
+gKqGDr0wHjV41OBRgAcAAAGMBSCE5rCBAAAAAElFTkSuQmCC
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.015.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.015.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAChJREFUOI1jYBiu4P+ooaOGUg4YqWgoIy4JmgTBqOGjhg8yw0cBeQAA
+uGkP88lsB/sAAAAASUVORK5CYII=
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.016.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.016.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAJBJREFUSIntlVEOgCAMQ5HDciguq18QE9vRTdTE0E/Y+saUkdLftClB
+pZQdrddapfwhiAEiQBpwhjAjJcYEeQw8sZdEtWWevMyqi4p5ZLToaoGY00GtkghEETxRVK1I1L6p
+IEsLZMr6oTrI+pAzBE8UnQwyaMYdYh6vDVXpmUAmo30ZhMyYbj18I+hTM3HpOx09sVjjpA/OTgAA
+AABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.017.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.017.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAJhJREFUSIntVVsOgCAMA+JZdyguK78Eu61T0ETtn9K1PEZJ6W3IDElE
+dvS/1krVu0aawRlDldCbaEIMxzSKCES4h0J2yyJ1mzY7JNR/W9uJxvJIGkW81SEuMioMaQaKNcic
+FWoGVGcazcTHjJjGCHeddZAzAO8RmpV3YcNRtCqCbgtV6plAImz2uUZITMOlh88zXZWJP55DAzD/
+e9aPWB4bAAAAAElFTkSuQmCC
+
+--=boundary.Aspose.Words=--
+Content-Disposition: inline;
+	filename="image.018.png"
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: image.018.png
+
+iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBD6fLggAAAC1JREFUOI1jYBgFo2DQg/8DZigTLQwl1ZD/1DIY3XCqhytVXToKRsEo
+YGBgAAD27Qn5dH8AMwAAAABJRU5ErkJggg==
+
+--=boundary.Aspose.Words=----
