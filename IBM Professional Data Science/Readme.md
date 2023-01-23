@@ -83,8 +83,4 @@ Read more below:
 - [In depth Exploratory data Analysis (EDA)](https://www.kaggle.com/lalitharajesh/iris-dataset-exploratory-data-analysis)
 - [K-means Clustering](https://nbviewer.jupyter.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb)
 
-#### Building Portfolio and Real world Experience
-- [Building an effective Data science Portfolio](https://towardsdatascience.com/how-to-build-an-effective-data-science-portfolio-56d19b885aa8)
-- [Getting real life Data science experience](https://towardsdatascience.com/3-ways-to-get-real-life-data-science-experience-before-your-first-job-545db436ef12)
-- [How not to build a data science project](https://towardsdatascience.com/how-not-to-build-a-data-science-project-baa494d98da4)
 
