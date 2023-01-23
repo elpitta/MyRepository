@@ -9,4 +9,4 @@ This final project will be graded by your peers who are completing this course d
 3. Building model using SVM, finding the best k and accuracy evaluation (**6 marks**)
 4. Building model using Logistic Regression, finding the best k and accuracy evaluation (**6 marks**)
 
-[Link to notebook](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/4d6db394-4d29-4627-aa4b-28bd502c368e/view?access_token=0aa62299e7b37c3b9040fbada756fcaa5bda15542045fdc0a4beb29e234204f3)
+[Link to notebook](https://drive.google.com/file/d/17kfHGpQiIwHmLCrVgUQ5VRRNU4ib8UrZ/view?usp=share_link)
