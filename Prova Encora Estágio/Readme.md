@@ -99,7 +99,7 @@
 **Qual a disciplina que você mais gostou de cursar na faculdade e por quê? (Responder em
 português)**
 
-A matéria que eu mais gostei de cursar na faculdade até agora foi cálculo 3 (Introdução a equações ordinárias diferenciais), porque foi um assunto que me dei bem e gostei bastante de realizar os exercícios. Mesmo ela sendo meio nao aplicável as outras matérias por ser meio abstrata, gostei da disciplinar.
+A matéria que eu mais gostei de cursar na faculdade até agora foi cálculo 3 (Introdução a equações ordinárias diferenciais), porque foi um assunto que me dei bem e gostei bastante de realizar os exercícios. Mesmo ela sendo meio nao aplicável as outras matérias por ser meio abstrata, gostei da disciplina.
 
 
 
