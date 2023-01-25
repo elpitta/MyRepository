@@ -2,7 +2,7 @@
 # Prova Encora Estagio
 
 
-**Informações**
+## Informações
 
 
 **Date:** 25/01/2033 ; **City/State:** Bauru/SP ; **Course:** Ciencia da computação (A) / Ciencia e Tecnologia (B) ; 
@@ -11,6 +11,9 @@
 **Educational Intituition:** Universidade Federal do ABC (UFABC) ; **Curse Duration:** A = 4 anos, B = 3 anos ; **Current Semester:** Quinto
 
 **GraduationYear (expected):** A = 2025, B = 2024 ; **Availability to work:** 20 e 30 horas ; **Estimated Start Date:** Não entendi a pergunta
+
+
+
 
 <br>
 
@@ -66,7 +69,7 @@
  <img src="https://github.com/elpitta/MyRepository/blob/main/Prova%20Encora%20Est%C3%A1gio/Capturas/Captura%20de%20tela_20230125_184019.png" title="Coins" alt = "Coins" />
 </p>
 
-<a href=“http://exemplo.com/“>Flex Grid</a>
+[Code Link Python](https://github.com/elpitta/MyRepository/blob/main/Prova%20Encora%20Est%C3%A1gio/encora_coins.py)
 
 
 # Gabarito: 
