@@ -1,6 +1,17 @@
 
 # Prova Encora Estagio
 
+
+**Informações**
+
+
+**Date:** 25/01/2033 ; **City/State:** Bauru/SP ; **Course:** Ciencia da computação (A) / Ciencia e Tecnologia (B) ; 
+
+
+**Educational Intituition:** Universidade Federal do ABC (UFABC) ; **Curse Duration:** A = 4 anos, B = 3 anos ; **Current Semester:** Quinto
+
+**GraduationYear (expected):** A = 2025, B = 2024 ; **Availability to work:** 20 e 30 horas ; **Estimated Start Date:** Não entendi a pergunta
+
 <br>
 
 <p align="center">
@@ -77,6 +88,11 @@
 
 8 = **A**
 
+
+**Qual a disciplina que você mais gostou de cursar na faculdade e por quê? (Responder em
+português)**
+
+A matéria que eu mais gostei de cursar na faculdade até agora foi cálculo 3 (Introdução a equações ordinárias diferenciais), porque foi um assunto que me dei bem e gostei bastante de realizar os exercícios. Mesmo ela sendo meio nao aplicável as outras matérias por ser meio abstrata, gostei da disciplinar.
 
 
 
