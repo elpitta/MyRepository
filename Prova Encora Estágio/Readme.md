@@ -2,7 +2,7 @@
 # Prova Encora Estagio
 
 
-## Informações
+## Informações:
 
 
 **Date:** 25/01/2033 ; **City/State:** Bauru/SP ; **Course:** Ciencia da computação (A) / Ciencia e Tecnologia (B) ; 
@@ -13,7 +13,31 @@
 **GraduationYear (expected):** A = 2025, B = 2024 ; **Availability to work:** 20 e 30 horas ; **Estimated Start Date:** Não entendi a pergunta
 
 
+## Gabarito:
 
+
+1 = **A**  
+
+
+2 = **D**  
+
+
+3 = **C**
+
+
+4 = **B**
+
+
+5 = **D**
+
+
+6 = **D**
+
+
+7 = **B**
+
+
+8 = **A**
 
 <br>
 
@@ -70,32 +94,6 @@
 </p>
 
 [Code Link Python](https://github.com/elpitta/MyRepository/blob/main/Prova%20Encora%20Est%C3%A1gio/encora_coins.py)
-
-
-# Gabarito: 
-1 = **A**  
-
-
-2 = **D**  
-
-
-3 = **C**
-
-
-4 = **B**
-
-
-5 = **D**
-
-
-6 = **D**
-
-
-7 = **B**
-
-
-
-8 = **A**
 
 
 **Qual a disciplina que você mais gostou de cursar na faculdade e por quê? (Responder em
