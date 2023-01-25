@@ -62,6 +62,12 @@
 
 **R:Letra A**
 
+<p align="center">
+ <img src="https://github.com/elpitta/MyRepository/blob/main/Prova%20Encora%20Est%C3%A1gio/Capturas/Captura%20de%20tela_20230125_184019.png" title="Coins" alt = "Coins" />
+</p>
+
+<a href=“http://exemplo.com/“>Flex Grid</a>
+
 
 # Gabarito: 
 1 = **A**  
